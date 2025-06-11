@@ -1,0 +1,5 @@
+## Interface : 11200
+## Title : |cFFFF8080TNS|r's Aggro
+## Notes : Visual effect when taking aggro
+## Version : 1.0
+## Author : rmarc29 (aka TNS)
